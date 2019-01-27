@@ -1,9 +1,4 @@
 local first commit
 222 repository
 111
-<<<<<<< HEAD
 local  55
-=======
-
-333
->>>>>>> origin/master
